@@ -26,4 +26,4 @@ For this assignment, make sure you set up and link to a new page. This page is l
 For this assignment, make sure you set up and link to a new page. This page is linking to a new Markdown document called critique-by-design.md.
 
 # Final project
-Here it might be helpful to include a high-level description of your final project. [Part I](final part I.md) Part II Part III(final-project-part-three)
+Here it might be helpful to include a high-level description of your final project. [Part I](final part I.md) [Part II](final part Ⅱ.md) Part III(final-project-part-three)

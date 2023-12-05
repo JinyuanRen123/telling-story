@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final part I.md) | [final project II](final part II.md) | [final project III](final part III.md) |
+| [home page]( https://jinyuanren123.github.io/telling-story/) | [visualizing debt](government debt ratio% .md) | [critique by design](assignment3&4.md) | [final project I](final part I.md) | [final project II](final part II.md) | [final project III](final part III.md) |
 # telling-story
 Web page URL: https://jinyuanren123.github.io/telling-story/
 This repository: https://github.com/JinyuanRen123/telling-story/

@@ -25,5 +25,5 @@ For this assignment, make sure you set up and link to a new page. This page is l
 # Assignment 3&4: [Critique by Design](assignment3&4.md)
 For this assignment, make sure you set up and link to a new page. This page is linking to a new Markdown document called critique-by-design.md.
 
-# Final project
+# [Final project](final part III.md)
 Here it might be helpful to include a high-level description of your final project. [Part I](final part I.md) [Part II](final part II.md) [Part III](final part III.md)

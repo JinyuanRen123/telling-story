@@ -1,7 +1,7 @@
 **The final data story**
 [Hotel booking in travel](https://preview.shorthand.com/8Bg1r2BKNXTpu6Xr)
 
-As an enthusiast in the hospitality industry, my journey into the dynamics of hotel bookings in the United States is driven by a desire to unravel travel patterns, discern preferences, and advocate for sustainable practices within this thriving sector. Armed with insights gained from my internship in the travel domain, I am set to embark on a visual exploration of diverse data sources, including hotel booking platforms and travel databases.
+-As an enthusiast in the hospitality industry, my journey into the dynamics of hotel bookings in the United States is driven by a desire to unravel travel ---patterns, discern preferences, and advocate for sustainable practices within this thriving sector. Armed with insights gained from my internship in the -----travel domain, I am set to embark on a visual exploration of diverse data sources, including hotel booking platforms and travel databases.
 
 **Changes made since Part II**
 I carefully integrated all the feedback and interview insights into my story, emphasizing the importance of delivering valuable information that resonates with my readers. Their perspectives are paramount, and I recognized that the success of my narrative depends on their understanding and acknowledgment of its value.

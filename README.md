@@ -15,9 +15,6 @@ good competence of story telling
 skills in data visualization
 how to interact with audience
 
-# examples
-wait for a while
-
 # Assignment 1：Data visualization critique
 # Assignment 2: [Visualizing government Debt](government debt ratio% .md)
 For this assignment, make sure you set up and link to a new page. This page is linking to a new Markdown document called visualizing-government-debt.md. For links to Markdown files in your repository, you can just include the name of the page without the .md extension.

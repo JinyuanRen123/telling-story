@@ -32,11 +32,12 @@
 -While facing limitations with Flourish, such as the absence of an auxiliary trendline feature and occasional bugs, I adapted by exploring alternative methods to convey the narrative effectively. One noteworthy approach was incorporating a concise takeaway for each chart, contributing to a more streamlined and impactful storytelling process.
 
 # References
--Pictures:I used the pictures from shorthand free library. 
--Story and reading: [Hotel booking process](https://www.researchgate.net/publication/325980818_Understanding_of_online_hotel_booking_process_A_multiple_method_approach)
-                    [Hotel Management](https://ijcrt.org/papers/IJCRT22A6549.pdf)
+1. Pictures:I used the pictures from shorthand free library.
+2. Dataset: [Hotel Dataset]( https://www.huduser.gov/portal/datasets/50per.html#year2020)
+3. Story and reading: [Hotel booking process](https://www.researchgate.net/publication/325980818_Understanding_of_online_hotel_booking_process_A_multiple_method_approach)|
+                    [Hotel Management](https://ijcrt.org/papers/IJCRT22A6549.pdf)|
                     [Online Hotel Martket](https://www.ftc.gov/system/files/documents/reports/online-hotel-booking-market-federal-trade-commission-report-congress-recommended-enforcement-actions/p114500_ftc_report_to_congress_re_the_online_hotel_booking_market.pdf)
--Dataset: [Hotel Dataset]( https://www.huduser.gov/portal/datasets/50per.html#year2020)
+
 
 # Final thoughts
 

@@ -1,3 +1,7 @@
+<script src="https://carnegiemellon.shorthandstories.com/media-project-proposal-travel/embed.js">
+  
+</script>
+
 # The final data story
 [Hotel booking in travel](https://preview.shorthand.com/8Bg1r2BKNXTpu6Xr)
 

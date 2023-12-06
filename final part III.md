@@ -1,4 +1,4 @@
-# Pay attention: There are four data visualizations in the Shorthand, but the graphs take a long time to load. If there are any issues with loading, please check the Shorthand link. Thank you!
+# Pay attention: There are four data visualizations in the Shorthand, but the graphs take a long time to load below. If there are any issues with loading, please check the Shorthand link. Thank you!
 
 
 <script src="https://carnegiemellon.shorthandstories.com/media-project-proposal-travel/embed.js">
